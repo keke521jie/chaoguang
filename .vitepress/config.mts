@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "目光朝朝",
   description: "朝光",
+  base: "/chaoguang/",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
