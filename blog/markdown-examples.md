@@ -1,6 +1,6 @@
----
+<!-- ---
 sidebar: false
----
+--- -->
 
 
 # Markdown Extension Examples
